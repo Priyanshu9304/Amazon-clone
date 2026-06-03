@@ -172,7 +172,7 @@ span{
                    /*Hero Section*/
 .hero-section{
     background-image: url("hero.jpg");
-    width:1359.2px;
+    width:1257px;
     height: 800px;
     background-size: cover;
     display: flex;
@@ -200,11 +200,26 @@ span{
     padding-right: 10px;
     
 }
+/*for box 1*/
 .img1{
     background-image: url("bag.jpg");
     width: 266px;
     height: 290px;
     background-size: contain;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+           /*For box 2*/
+.img2{
+    background-image: url("refri.jpg");
+    width: 230px;
+    height: 260px;
+    background-size: cover;
+    padding-left: 40px;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 5px;
+    font-weight: bolder;
 }
 
 
