@@ -221,5 +221,19 @@ span{
     margin-bottom: 5px;
     font-weight: bolder;
 }
+.img3  {
+    background-image: url("ac.jpg");
+    width: 280px;
+    height: 270px;
+    background-size: cover;
+    margin: 10px 0px 5px 3px;
+}
+.img4{
+    background-image: url("cloth.jpg");
+    width: 280px;
+    height: 270px;
+    background-size: cover;
+margin: 10px 0px 10px 3px;
+}
 
 
