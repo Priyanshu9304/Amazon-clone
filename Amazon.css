@@ -185,6 +185,8 @@ span{
 .shop-section{
     display: flex;
     justify-content: space-evenly;
+    
+    
     /*border:2px solid black;*/
     width: 1200px;
 }
@@ -195,9 +197,11 @@ span{
     background-color:#ffffff ;
     
     padding-top: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     padding-left: 3px;
     padding-right: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
     
 }
 /*for box 1*/
@@ -236,4 +240,34 @@ span{
 margin: 10px 0px 10px 3px;
 }
 
+      /* footer   */
+footer{
+    margin-top: 10px;
+}
+.foot-panal1{
+   justify-content: center;
+   color: white;
+   background-color: #37475a;
+   height: 50px;
+   display: flex;
+   align-items: center;
+}
 
+.foot-panal2{
+    background-color: #232F3E;
+    color: #dddddd;
+    height: 700px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+ul{
+    margin-top: 50px;
+}
+
+ul a{
+    display: block;
+    margin-top: 10px;
+    color:#dddddd;
+    font-size: 0.75rem;
+}
