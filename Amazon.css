@@ -276,7 +276,7 @@ ul a{
 .foot-panal-3{
     background-color:#37475a ;
     
-    border: 0.2px solid white;
+    border: 0.2px solid #232F3E;
     height: 68px;
     display: flex;
     justify-content: center;
@@ -289,4 +289,19 @@ ul a{
     background-size:cover ;
     height: 40px;
    
+}
+.foot-panal-4{
+    background-color: #0f1111;
+    color: white;
+    height: 100px;
+}
+.pages{
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 25px;
+}
+.copyright{
+    padding-top: 5px;
+    font-size: 1rem;
+    text-align: center;
 }
