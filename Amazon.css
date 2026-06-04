@@ -5,6 +5,7 @@
 }
 .navbar{
     height:60px;
+    
     background-color: #0f1111;
     display: flex;
     align-items: center;
@@ -172,7 +173,7 @@ span{
                    /*Hero Section*/
 .hero-section{
     background-image: url("hero.jpg");
-    width:1257px;
+    width: 1342px;
     height: 800px;
     background-size: cover;
     display: flex;
@@ -256,7 +257,7 @@ footer{
 .foot-panal2{
     background-color: #232F3E;
     color: #dddddd;
-    height: 700px;
+    height: 400px;
     display: flex;
     justify-content:space-evenly;
 }
@@ -270,4 +271,22 @@ ul a{
     margin-top: 10px;
     color:#dddddd;
     font-size: 0.75rem;
+}
+
+.foot-panal-3{
+    background-color:#37475a ;
+    
+    border: 0.2px solid white;
+    height: 68px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo2{
+    background-image: url("Amazon_2.png");
+   width: 120px;
+   margin-top: 10px;
+    background-size:cover ;
+    height: 40px;
+   
 }
